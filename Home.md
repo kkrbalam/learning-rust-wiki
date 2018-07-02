@@ -6,3 +6,4 @@ This will be a unofficial documentation for Rust where we describe what each met
 * [enums](enums)
 * [error handling](error_handling)
 * [hash maps](has_maps)
+* [str methods](str_methods)
