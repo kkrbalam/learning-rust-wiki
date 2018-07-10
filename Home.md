@@ -11,6 +11,6 @@ This will be a unofficial documentation for Rust where we describe what each met
 * [str methods](str_methods)
 * [Vector methods](vector_methods)
 
-# Other
+# Crates
 
-* [Crates](crates)
+* [cli crates](cli_crates)
