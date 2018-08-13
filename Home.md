@@ -2,6 +2,14 @@ Welcome to the learning-rust wiki!
 
 This will be a unofficial documentation for Rust where we describe what each method is so that we can easily search for it if we don't know what we are looking for but do know what we want to do.
 
+# Cargo
+
+* [Cross compiling](cross_compiling)
+
+# Crates
+
+* [cli crates](cli_crates)
+
 # Code
 
 * [printing values](printing_values)
@@ -10,7 +18,3 @@ This will be a unofficial documentation for Rust where we describe what each met
 * [hash maps](has_maps)
 * [str methods](str_methods)
 * [Vector methods](vector_methods)
-
-# Crates
-
-* [cli crates](cli_crates)
