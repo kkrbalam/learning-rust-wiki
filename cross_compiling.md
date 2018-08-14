@@ -3,6 +3,7 @@
 1. `rustup target add x86_64-pc-windows-gnu`
 1. Add the file `config` into a new folder `.cargo` with the contents below
 1. Install the package `mingw-w64` with the command `sudo apt install mingw-w64`
+
 ## Config file
 
 ```
