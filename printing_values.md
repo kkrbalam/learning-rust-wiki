@@ -23,3 +23,9 @@ Now we can print with println!
 ```rust
 println!("{:?}", our_enum);
 ```
+
+## Printing to standard out
+
+`eprintln!("this will go to standard out");`
+
+[documentation](https://doc.rust-lang.org/std/macro.eprint.html)
