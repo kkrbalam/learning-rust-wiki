@@ -1,7 +1,7 @@
 # Steps to Cross Compile from Linux to Windows
 
 1. `rustup target add x86_64-pc-windows-gnu`
-1. Add the file `config` into a new folder `.cargo` with the contents below
+1. Add the file `config` into a new folder `.cargo` in the project root with the contents below
 1. Install the package `mingw-w64` with the command `sudo apt install mingw-w64`
 1. Compile with the command `cargo build --release --target x86_64-pc-windows-gnu`
 
