@@ -21,4 +21,4 @@ This will be a unofficial documentation for Rust where we describe what each met
 
 # VS Code
 
-* [installing_rls](Installing RLS)
+* [installing rls](installing_rls)
