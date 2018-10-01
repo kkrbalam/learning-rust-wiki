@@ -18,3 +18,7 @@ This will be a unofficial documentation for Rust where we describe what each met
 * [hash maps](has_maps)
 * [str methods](str_methods)
 * [Vector methods](vector_methods)
+
+# VS Code
+
+* [installing_rls](Installing RLS)
