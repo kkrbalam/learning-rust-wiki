@@ -19,6 +19,10 @@ This will be a unofficial documentation for Rust where we describe what each met
 * [str methods](str_methods)
 * [Vector methods](vector_methods)
 
+# Library stuff
+
+* [Accessing struct in main](accessing_struct_in_main)
+
 # VS Code
 
 * [installing rls](installing_rls)
