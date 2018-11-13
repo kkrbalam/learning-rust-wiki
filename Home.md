@@ -26,3 +26,4 @@ This will be a unofficial documentation for Rust where we describe what each met
 # VS Code
 
 * [installing rls](installing_rls)
+* [When RLS has false errors](rls_restart)
