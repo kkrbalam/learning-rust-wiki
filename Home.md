@@ -9,7 +9,7 @@ This will be a unofficial documentation for Rust where we describe what each met
 # Crates
 
 * [cli crates](cli_crates)
-* [diesel](crate for managing and working with databases)
+* [diesel (crate for managing and working with databases)](diesel_crate)
 
 # Code
 
